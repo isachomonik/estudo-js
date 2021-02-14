@@ -1,6 +1,6 @@
 /*
 Escrito e Dirigido por:
-		Isac Homonik
+		Isac Homonik =D
 */
 
 function changeSize(size){
