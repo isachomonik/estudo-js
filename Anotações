@@ -1,0 +1,13 @@
+
+
+Quando for ler os itens de uma lista, ao invés de usar o conjunto de cógidos:
+
+ for (var i = 0; i < 5; i++) {
+ 	alert(lista[i]);
+ }
+ 
+ Eu posso simplesmente usar:
+ 
+ for(i in lista){
+	alert(lista[i]);
+ }
