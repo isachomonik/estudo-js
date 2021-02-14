@@ -8,7 +8,7 @@ Escrito e Dirigido por:
 }*/
 
 var A = 10;
-var B = 9;
+var B = 19;
 var X = A + B;
 
 console.log("X = "+X);
