@@ -3,7 +3,19 @@ Escrito e Dirigido por:
 		Isac Homonik =D
 */
 
-function changeSize(size){
-	var element = document.getElementById("mensagem");
-	element.style.fontSize = size; 
+function andar(orientation){
+	var elemento = document.getElementsByClassName("square");
+	
+	if(orientation == 'right'){
+		elemento.fillStyle = 'blue';
+	}
+	else {
+		elemento.fillStyle = 'green';
+	}
+
+	/*if(orientation == 'right'){
+		
+	}*/
+}
+
 }
